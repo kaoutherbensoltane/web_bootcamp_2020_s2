@@ -48,3 +48,18 @@ color: yellow;
 
 
 }
+
+
+.smallTitle1,.smallTitle2{
+
+text-decoration: underline;
+background-color: aqua;
+border: 1px solid aquamarine;
+
+}
+*{
+
+
+    text-align: center;
+    opacity: 0.8;
+}
