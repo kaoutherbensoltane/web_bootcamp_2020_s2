@@ -1,0 +1,50 @@
+/* les selecteurs */
+
+p{
+
+color: tomato;
+border: 1px solid red;
+
+}
+
+
+#mytitle1{
+font-family: monospace;
+
+
+
+}
+
+
+
+#mytitle2{
+
+
+color: sienna;
+
+}
+
+.smallTitle1{
+
+color: thistle;
+
+
+
+}
+
+
+.stf{
+
+font-family: sans-serif;
+
+
+
+}
+
+
+.smallTitle2{
+
+color: yellow;
+
+
+}
